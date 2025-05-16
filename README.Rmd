@@ -41,11 +41,13 @@ General information about the project (study system, goals, etc)
 
 ## In progress
 
-*  Something not finished yet
+*  
 
 ## To-do list
 
-* Do the next analysis
+* Regression models with blur ratio, excess attenuation and tail-to-signal ratio as response variables
+* Mozaic plot with effect sizes from all models
+* Detection range for males and females
 
 ## Status
 Project is: _in progress_
